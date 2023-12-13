@@ -8,5 +8,9 @@ For this project, I only used three classes namely Airplane, Deer, and Horses of
 ## Code Description:-
 1) The raw data can be found under the Data Folder. I extracted Airplane, deer, and horse images and stored them in .npy files.
 2) K means.py is the code for Image segmentation using K means Clustering
-3) weights.py is the code for generating 
+3) weights.py is the code for generating weights for the Adjacency matrix using Shi-Malik and Ng-Spectral clustering.
+4) spectral_clustering.py is the code for spectral clustering.
+
+# How the code works:-
+For kmeans:- Run Kmeans.py 
 
