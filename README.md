@@ -17,10 +17,7 @@ For Spectral clustering:- Run weights.py and Kmeans.py first and then run spectr
 
 ## References:-
 1) CIFAR-10 Dataset:- (https://www.cs.toronto.edu/~kriz/cifar.html)
-2) Jianbo Shi and J. Malik. Normalized cuts and image segmentation. IEEE Trans. on Pattern
-Analysis and Machine Intelligence, 22(8):888–905, 2000.
-3) Andrew Y. Ng, Michael I. Jordan, and Yair Weiss. On spectral clustering: Analysis and an
-algorithm. In ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, pages 849–
-856. MIT Press, 2001.
+2) Jianbo Shi and J. Malik. Normalized cuts and image segmentation. IEEE Trans. on Pattern Analysis and Machine Intelligence, 22(8):888–905, 2000.
+3) Andrew Y. Ng, Michael I. Jordan, and Yair Weiss. On spectral clustering: Analysis and an algorithm. In ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, pages 849–856. MIT Press, 2001.
 
 
